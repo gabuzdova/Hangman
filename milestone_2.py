@@ -8,3 +8,4 @@ if len(guess)==1 and guess.isalpha()==True:
     print("Good guess!")
 else:
     print("Oops! That is not a valid input")
+print("just trying to do change")
